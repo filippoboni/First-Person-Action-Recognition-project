@@ -1,2 +1,2 @@
-# First-Person-Action-Recognition-project
-A project carried out during the course of Machine Learning and Deep Learning at Politecnico di Torino
+# First-Person-Action-Recognition
+Machine and Deep Learning Project @ Politecnico di Torino, Italy
